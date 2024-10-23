@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Treasure Trawler" clientCode="mobile"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="UnderwaterTreasure" enableFreeSpin="N" clientversion="1.0" gameId="300-2036-0" />
+	<GameClient name="Treasure Trawler" clientCode="tablet"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="UnderwaterTreasure" enableFreeSpin="N" clientversion="1.0" gameId="300-2036-0" />
+	<GameClient name="Treasure Trawler" clientCode="desktop" technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="UnderwaterTreasure" enableFreeSpin="N" clientversion="1.0" gameId="300-2036-0" />
+</ClientConfig>
